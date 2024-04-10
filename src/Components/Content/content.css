@@ -1,0 +1,33 @@
+/* .conatiner{
+    display: flex;
+    grid-row: 4;
+} */
+
+.data {
+    color: white;
+}
+
+.images_data {
+    display: flex;
+
+}
+
+/* img{
+    width: 300px;
+    object-fit: cover;
+} */
+
+.images {
+    box-shadow: 0 4px 8px 0 rgba(245, 248, 247, 0.2), 0 6px 20px 0 rgba(248, 247, 247, 0.19);
+
+}
+
+.img1 {
+    width: 300px;
+    object-fit: cover;
+
+}
+
+p {
+    color: white;
+}
